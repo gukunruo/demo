@@ -1,2 +1,4 @@
 # 忽略test文件下的后缀为txt的文件
 test/*.txt
+
+index.css
